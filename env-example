@@ -1,0 +1,16 @@
+SECRET_KEY='testestestestestest'
+DEBUG=True
+ALLOWED_HOSTS=localhost,
+PRODUCTION = False
+
+DB_NAME=base
+DB_PASSWORD=password
+DB_USER=user
+DB_HOST =localhost
+DB_PORT =port
+
+EMAIL_HOST =mailtest.com
+EMAIL_USE_TLS =True
+EMAIL_PORT = 333
+EMAIL_HOST_USER = correo@dominio.com
+EMAIL_HOST_PASSWORD = passwordbonito

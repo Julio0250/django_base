@@ -1,0 +1,14 @@
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+*media
+.env
+db.sqlite3
+
+*migrations/*.py
+!__init__.py
+*.pickle
+credentials.json
